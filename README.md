@@ -1,5 +1,5 @@
 # Ants-vs-Bees
-A game similar to plants vs zombies made in primarily in Python with a few other langauges
+A game similar to plants vs zombies made in primarily in Python with a few other programming langauges!
 
 <a>Link: https://cs61a.org/proj/ants/</a>
 
